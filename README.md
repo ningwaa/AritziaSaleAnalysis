@@ -9,7 +9,7 @@ Overview:
 This Tableau dashboard provides a detailed visual analysis of customer preferences and product performance at Aritzia. 
 Using data cleaned and prepared in Excel, the dashboard highlights the most liked products, pricing insights, perceived product value, corporate readiness, and category-based recommendations.
 
-Tools Used:
+Tools Used -
 Excel: Data cleaning, transformation, and preparation
 Tableau: Dashboard creation and data visualization
 
