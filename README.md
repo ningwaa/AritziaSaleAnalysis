@@ -20,7 +20,7 @@ Only some top products are considered corporate-ready
 Most liked and most recommended products tend to fall in the $98–$300 range
 
 
-![aritzia](aritzia.png)
+
 
 
 
